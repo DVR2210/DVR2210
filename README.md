@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hello World! My name is Dmitry Rudakov, I am a front-end developer.</h1>
+<h1 align="center">Hello World! My name is Dmitry Rudakov, I am a front-end developer.</h1>
 
 
 
