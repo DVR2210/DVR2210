@@ -1,10 +1,15 @@
 <h1 align="center">Hello, World! My name is Dmitry Rudakov, I am a front-end developer.</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<h3>Skills</h3>
 
+- 🌍 I'm based in Barnaul Russia.
+- ✉️ You can contact me at [Telegram](https://t.me/RDV2210)
+- 🧠 I'm currently learning React.js & Typescript.
+- 🤝 I'm open for any collaborations
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,ts)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 [![codewars](https://www.codewars.com/users/RDV2210/badges/small)](https://www.codewars.com/users/RDV2210) 
 
